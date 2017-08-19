@@ -1,5 +1,5 @@
-import acceptedCoins from '../acceptedCoins';
-import chocolates from '../chocolates.js';
+import acceptedCoins from './acceptedCoins';
+import chocolates from './chocolates.js';
 
 const ChocolateMachine = {
     getChocolates: () => {

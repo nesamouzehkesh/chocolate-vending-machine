@@ -116,6 +116,7 @@ class App extends Component {
                                 <CoinDashboard
                                     userCashArray = {this.state.userCashArray}
                                     updateCashArray = {this.updateCashArray}
+                                    onEmptyBasket = {this.handleResetBasket}
                                 />
                                 <ChocolateBasket
                                     chocolateInBasket = {this.state.chocolateBasket}

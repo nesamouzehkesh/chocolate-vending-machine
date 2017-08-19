@@ -1,6 +1,6 @@
 # chocolate-vending-machine
 
-## To run
+## How to run
 
 ```
 npm install
